@@ -1,3 +1,7 @@
+# FAQs App using ReactJS ⚛
+
+Live demo - [https://srikanth-kandi.github.io/react-faqs-app/](https://srikanth-kandi.github.io/react-faqs-app/)
+
 In this project, let's build a **Faqs App** by applying the concepts we have learned till now.
 
 ### Refer to the image below:
